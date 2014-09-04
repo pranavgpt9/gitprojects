@@ -1,0 +1,7 @@
+name = menudemo
+description = A module to  demo drupals menu system
+package = Menu Demo Package
+core = 7.x
+files[] = menudemo.module
+
+
